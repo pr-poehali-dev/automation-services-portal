@@ -291,7 +291,7 @@ export default function Index() {
               </h3>
               <div className="space-y-4 text-slate-600">
                 <p>Более 12 лет мы реализуем проекты в сфере электромонтажа и автоматизации — от небольших офисов до крупных промышленных предприятий.</p>
-                <p>Наша команда — дипломированные инженеры с допусками СРО, сертифицированные специалисты Siemens, ABB и Schneider Electric.</p>
+                <p>Наша команда — дипломированные инженеры.</p>
               </div>
               <div className="mt-8 flex flex-wrap gap-3">
                 {["СРО допуск", "ISO 9001", "Siemens Partner", "ABB Certified"].map((badge) => (
