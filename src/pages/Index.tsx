@@ -294,7 +294,7 @@ export default function Index() {
                 <p>Наша команда — дипломированные инженеры.</p>
               </div>
               <div className="mt-8 flex flex-wrap gap-3">
-                {["СРО допуск", "ISO 9001", "Siemens Partner", "ABB Certified"].map((badge) => (
+                {["СРО допуск", "ISO 9001"].map((badge) => (
                   <span key={badge} className="px-4 py-2 bg-blue-50 border border-blue-100 rounded-full text-blue-700 text-sm font-medium">
                     {badge}
                   </span>
