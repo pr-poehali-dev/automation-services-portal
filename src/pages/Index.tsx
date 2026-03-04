@@ -38,9 +38,9 @@ const catalog = [
   { icon: "Monitor", name: "SCADA / HMI панели", tag: "" },
   { icon: "Activity", name: "Частотные преобразователи", tag: "" },
   { icon: "Thermometer", name: "Датчики и измерительные приборы", tag: "" },
-  { icon: "Wifi", name: "Системы диспетчеризации", tag: "BMS, GSM-мониторинг, Modbus TCP" },
-  { icon: "Lightbulb", name: "Умное освещение", tag: "DALI, KNX, Zigbee управление" },
-  { icon: "Lock", name: "Системы безопасности", tag: "АПС, АУПТ, СКУД" },
+  { icon: "Wifi", name: "Системы диспетчеризации", tag: "" },
+  { icon: "Lightbulb", name: "Умное освещение", tag: "" },
+  { icon: "Lock", name: "Системы безопасности", tag: "" },
 ];
 
 const portfolio = [
