@@ -37,7 +37,7 @@ const catalog = [
   { icon: "Cpu", name: "Программируемые контроллеры", tag: "Siemens SIMATIC, Allen-Bradley, ОВЕН" },
   { icon: "Monitor", name: "SCADA / HMI панели", tag: "" },
   { icon: "Activity", name: "Частотные преобразователи", tag: "" },
-  { icon: "Thermometer", name: "Датчики и измерительные приборы", tag: "Температура, давление, расход" },
+  { icon: "Thermometer", name: "Датчики и измерительные приборы", tag: "" },
   { icon: "Wifi", name: "Системы диспетчеризации", tag: "BMS, GSM-мониторинг, Modbus TCP" },
   { icon: "Lightbulb", name: "Умное освещение", tag: "DALI, KNX, Zigbee управление" },
   { icon: "Lock", name: "Системы безопасности", tag: "АПС, АУПТ, СКУД" },
