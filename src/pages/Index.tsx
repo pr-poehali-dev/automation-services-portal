@@ -33,10 +33,10 @@ const services = [
 ];
 
 const catalog = [
-  { icon: "Box", name: "Распределительные щиты", tag: "Schneider Electric, ABB, Legrand" },
+  { icon: "Box", name: "Распределительные щиты", tag: "" },
   { icon: "Cpu", name: "Программируемые контроллеры", tag: "Siemens SIMATIC, Allen-Bradley, ОВЕН" },
-  { icon: "Monitor", name: "SCADA / HMI панели", tag: "WinCC, TRACE MODE, Weintek" },
-  { icon: "Activity", name: "Частотные преобразователи", tag: "Danfoss, ABB, Lenze" },
+  { icon: "Monitor", name: "SCADA / HMI панели", tag: "" },
+  { icon: "Activity", name: "Частотные преобразователи", tag: "" },
   { icon: "Thermometer", name: "Датчики и измерительные приборы", tag: "Температура, давление, расход" },
   { icon: "Wifi", name: "Системы диспетчеризации", tag: "BMS, GSM-мониторинг, Modbus TCP" },
   { icon: "Lightbulb", name: "Умное освещение", tag: "DALI, KNX, Zigbee управление" },
