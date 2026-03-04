@@ -56,7 +56,6 @@ const stats = [
   { value: "12+", label: "лет на рынке" },
   { value: "350+", label: "проектов завершено" },
   { value: "98%", label: "клиентов довольны" },
-  { value: "24/7", label: "аварийный выезд" },
 ];
 
 function useReveal() {
