@@ -437,13 +437,6 @@ export default function Index() {
                 </div>
               ))}
 
-              <div className="p-6 rounded-2xl bg-gradient-to-br from-blue-600 to-sky-500 text-white">
-                <div className="flex items-center gap-3 mb-3">
-                  <Icon name="Clock" size={20} className="text-sky-200" />
-                  <span className="font-montserrat font-bold text-lg">Аварийный выезд 24/7</span>
-                </div>
-                <p className="text-blue-100 text-sm">Специалист выедет на объект в течение 2 часов в любое время суток</p>
-              </div>
             </div>
 
             {/* Form */}
