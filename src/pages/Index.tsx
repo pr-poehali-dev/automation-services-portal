@@ -422,7 +422,7 @@ export default function Index() {
             {/* Contact Info */}
             <div className="reveal space-y-6">
               {[
-                { icon: "Phone", label: "Телефон", value: "+7 (800) 123-45-67", sub: "Звонок бесплатный" },
+                { icon: "Phone", label: "Телефон", value: "+7 (920) 015-94-93", sub: "Звонок бесплатный" },
                 { icon: "Mail", label: "Email", value: "info@electroproject.ru", sub: "Ответим в течение часа" },
                 { icon: "MapPin", label: "Адрес", value: "г. Москва, ул. Промышленная, 15", sub: "Пн–Пт, 9:00–18:00" },
               ].map((c, i) => (
@@ -526,7 +526,7 @@ export default function Index() {
               </div>
               <div>
                 <h5 className="font-montserrat font-bold text-white mb-3">Контакты</h5>
-                <div className="text-blue-300 mb-2">+7 (800) 123-45-67</div>
+                <div className="text-blue-300 mb-2">+7 (920) 015-94-93</div>
                 <div className="text-blue-300 mb-2">info@electroproject.ru</div>
                 <div className="text-blue-300">Москва, ул. Промышленная, 15</div>
               </div>
